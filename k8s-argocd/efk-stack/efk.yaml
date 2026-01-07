@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: 
+    repoURL: https://github.com/Ajaykumarsankula/google-store-DevOps-project.git
     path: efk-stack
     targetRevision: main
   destination:
