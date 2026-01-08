@@ -13,7 +13,6 @@ db_config = {
     "user": "admin",
     "password": "cloud123",
     "database": "cloud"
-    "port": 3306
 }
 
 def get_db_connection():
@@ -117,6 +116,7 @@ def get_users():
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000)
     
+
 
 
 
